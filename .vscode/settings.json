@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "D:\\Programs\\Anaconda\\python.exe"
+    "python.pythonPath": "D:\\Programs\\Anaconda\\python.exe",
+    "cSpell.words": [
+        "dataset"
+    ]
 }
