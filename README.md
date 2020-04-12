@@ -64,3 +64,11 @@ We will instead make a case for why LogisticRegression would be the right algori
 According to the labels there are only 2 outcomes for each row; Besign and malicious - 0 and 1 in other words we are looking at a binary value.
 What we are trying to make the classifier do, is to make it recognize weather a packet is malicious or benign, we should according to documentation have had 23 features to determine this.
 
+Logistic Regression works by measuring several features, and then determine, by the defining a classifier, which class the data belongs to, either 1 or 0. Or in our case; benign or malicious. The curve of the logistic function looks like an 'S', by measuring data on the x-axis, the data can be plotted on the y axis, which as mentioned only has two possible outcomes, 1 or 0.
+
+
+We aren't pleased that we weren't able to have any real data to show for our hard work in trying to make it work, but we hope to start a dialogue in class regarding how this could be avoided and hopefully see other students succeed where we failed and learn from them.
+
+@Authors
+
+Mikkel, Nikolai, Nikolaj
